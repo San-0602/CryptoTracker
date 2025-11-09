@@ -16,7 +16,10 @@ A sleek real-time Flutter app that tracks live crypto prices using the CoinGecko
 - Building and styling beautiful UI animations with Flutter’s widget system.
 
 ## 🛠️ Tech Stack
-**Flutter**, **Dart**, **CoinGecko API**, **HTTP package**
+**Flutter**
+**Dart**
+**CoinGecko API**
+**HTTP package**
 
 
 
