@@ -1,16 +1,27 @@
-# crypto_tracker
+# Crypto Tracker 💰
 
-A new Flutter project.
+A sleek real-time Flutter app that tracks live crypto prices using the CoinGecko API.
 
-## Getting Started
+## 🚀 Key Features
+- **Real-Time Updates** — fetches live data from CoinGecko.
+- **Glowing Dark UI** — futuristic theme built with Flutter.
+- **Smooth Animations** — pulsing cards and subtle transitions.
+- **Error Handling** — resilient API fetching with graceful fallbacks.
+- **Modular Architecture** — Models, Services, and Screens separated cleanly.
 
-This project is a starting point for a Flutter application.
+## 🧠 What I Learned
+- Handling live API calls and JSON parsing in Flutter.
+- Managing async states using `FutureBuilder`.
+- Structuring Flutter projects for readability and scalability.
+- Building and styling beautiful UI animations with Flutter’s widget system.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+**Flutter**, **Dart**, **CoinGecko API**, **HTTP package**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 🧩 Getting Started
+Clone the repo and run:
+```bash
+flutter pub get
+flutter run
